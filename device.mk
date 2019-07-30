@@ -14,5 +14,4 @@
 # limitations under the License.
 #
 
-include device/bq/sdm660-common/sdm660.mk
-
+include device/gm/sdm660-common/sdm660.mk
