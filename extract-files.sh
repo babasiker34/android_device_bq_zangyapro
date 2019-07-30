@@ -18,8 +18,8 @@
 
 set -e
 
-DEVICE=zangyapro
-VENDOR=bq
+DEVICE=gm9pro
+VENDOR=gm
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
