@@ -15,6 +15,6 @@ $(call inherit-product, device/gm/gm9pro/device.mk)
 PRODUCT_DEVICE := gm9pro
 PRODUCT_NAME := lineage_gm9pro
 PRODUCT_BRAND := gm
-PRODUCT_MODEL := General Mobile GM 9 Pro
+PRODUCT_MODEL := GM 9 Pro
 PRODUCT_MANUFACTURER := gm
 PRODUCT_RELEASE_NAME := gm9pro
