@@ -16,10 +16,9 @@
 # limitations under the License.
 #
 
-set -e
-
-DEVICE=zangyapro
-VENDOR=bq
+set -
+DEVICE=gm9pro
+VENDOR=gm
 
 INITIAL_COPYRIGHT_YEAR=2017
 
